@@ -1,7 +1,7 @@
 
 # Customer Satisfaction & Loyalty Dashboard
 
-### 📊 Dashboard Link Coming Soon 
+### 📊 Dashboard Link Coming Soon...
 
 ---
 
@@ -12,7 +12,23 @@ I built this Power BI dashboard for the **Customer Satisfaction and Loyalty Anal
 As a data analyst at OmniRetail, I analyzed 2024 customer feedback to understand what drives satisfaction, support engagement, and repeat purchases.
 The dashboard uncovers key patterns across regions, income levels, age groups, and loyalty tiers to support better retention strategies.
 
+Snap of Dashboad Pages (3) ,
+
+![image](https://github.com/user-attachments/assets/48ce50eb-6ef0-47ec-aab7-d9e9912ee40d)
+
+![image](https://github.com/user-attachments/assets/dd78a8eb-62ca-4312-a9a6-936d751f2f61)
+
+![image](https://github.com/user-attachments/assets/02accf50-c462-4c20-a050-7ad5fcc4701d)
+
+
+More Information ToolTip Sample
+
+![image](https://github.com/user-attachments/assets/8c6fbe84-f54a-46fc-acfe-d08ea9be8a30)
+
+
 ---
+
+
 
 ## 🧾 Pages Included
 
@@ -112,7 +128,7 @@ Data Model
 
 ---
 
-## 🔍 Insights Uncovered
+## 🔍 Some Insights Uncovered
 
 - Adults have the highest at-risk percentage (22.9%)  
 - Customers under age 55 are more satisfied overall  
@@ -135,3 +151,5 @@ Data Model
 ---
 
 📬 _Feel free to connect with me if you have feedback, questions, or want to collaborate on data storytelling!_
+
+
