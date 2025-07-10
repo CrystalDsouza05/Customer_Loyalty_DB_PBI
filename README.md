@@ -25,10 +25,15 @@ More Information ToolTip Sample
 
 ![image](https://github.com/user-attachments/assets/8c6fbe84-f54a-46fc-acfe-d08ea9be8a30)
 
+Dashboard Theme 
+
+![image](https://github.com/user-attachments/assets/7898e991-0cd1-4747-b5a5-4eb0ab6a23c6)
+
+Dashboard Background
+
+![PAGE 1 (9)](https://github.com/user-attachments/assets/b089231a-3abe-42b5-8ccf-feca323c64b2)
 
 ---
-
-
 
 ## 🧾 Pages Included
 
