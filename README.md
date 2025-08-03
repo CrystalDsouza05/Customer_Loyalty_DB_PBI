@@ -1,7 +1,7 @@
 
 # Customer Satisfaction & Loyalty Dashboard
 
-### 📊 Dashboard Link Coming Soon...
+### 📊 [Dashboard Link](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/c2e5aeac3dc59aceefbd69261cd0357e?challenge=onyx-data-july-2025&utm_source=linkedin&utm_medium=social&utm_campaign=onyx-july-2025-winners) 
 
 ---
 
