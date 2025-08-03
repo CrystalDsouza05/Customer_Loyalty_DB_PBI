@@ -1,0 +1,121 @@
+Customer_ID,Group,Satisfaction_Score,Age,Gender,Location,Purchase_History,Support_Contacted,Loyalty_Level,Satisfaction_Factor,Latitude,Longitude
+81-237-4704,A,6,55,Male,Phoenix.AZ,Yes,No,Low,Price,33.4484,-112.074
+14-117-0504,A,7,46,Female,Los Angeles.CA,Yes,No,Low,Product Variety,34.0522,-118.2437
+21-336-6416,A,7,55,Female,Houston.TX,Yes,Yes,Low,Packaging,29.7604,-95.3698
+59-781-3650,A,1,42,Male,Los Angeles.CA,Yes,No,Medium,Price,34.0522,-118.2437
+52-712-5734,B,9,37,Male,Austin.TX,Yes,Yes,Medium,Packaging,30.2672,-97.7431
+13-044-3048,B,9,52,Female,Philadelphia.PA,Yes,No,Medium,Packaging,39.9526,-75.1652
+13-138-2725,B,9,60,Male,Los Angeles.CA,No,No,Low,Ease of Use,34.0522,-118.2437
+96-029-4763,B,8,28,Female,Phoenix.AZ,Yes,No,Low,Product Variety,33.4484,-112.074
+74-526-1211,B,3,32,Female,Austin.TX,No,Yes,High,Ease of Use,30.2672,-97.7431
+66-506-4265,A,10,50,Female,Austin.TX,No,Yes,Low,Delivery Speed,30.2672,-97.7431
+53-279-2688,B,7,40,Male,Austin.TX,Yes,No,Low,Features,30.2672,-97.7431
+65-115-5317,B,10,49,Female,Chicago.IL,Yes,Yes,Low,Price,41.8781,-87.6298
+61-799-2819,A,5,25,Male,New York.NY,No,Yes,Medium,Product Quality,40.7128,-74.006
+14-895-1819,B,7,55,Male,Houston.TX,Yes,No,High,Product Quality,29.7604,-95.3698
+04-730-7617,B,9,35,Male,New York.NY,No,No,High,Ease of Use,40.7128,-74.006
+70-262-1283,A,2,60,Male,New York.NY,No,Yes,Medium,Price,40.7128,-74.006
+13-111-3439,A,4,53,Female,Phoenix.AZ,No,No,Low,Ease of Use,33.4484,-112.074
+31-562-2114,A,5,44,Female,Philadelphia.PA,No,No,High,Customer Service,39.9526,-75.1652
+09-982-4228,A,2,28,Male,Philadelphia.PA,No,Yes,Medium,Features,39.9526,-75.1652
+89-372-9394,A,2,47,Female,Dallas.TX,Yes,Yes,Low,Ease of Use,32.7767,-96.797
+31-456-9342,B,8,37,Female,Houston.TX,No,No,High,Brand Reputation,29.7604,-95.3698
+23-653-2977,A,2,31,Female,Phoenix.AZ,Yes,No,Medium,Brand Reputation,33.4484,-112.074
+73-020-4731,B,5,48,Male,Phoenix.AZ,No,No,High,Price,33.4484,-112.074
+60-913-7924,B,9,52,Female,Houston.TX,Yes,Yes,Low,Features,29.7604,-95.3698
+31-778-0358,A,4,57,Male,Chicago.IL,Yes,Yes,High,Features,41.8781,-87.6298
+67-157-3066,A,1,55,Female,San Antonio.TX,Yes,No,Medium,Support Availability,29.4241,-98.4936
+17-203-6948,B,1,51,Female,Austin.TX,No,No,Low,Delivery Speed,30.2672,-97.7431
+67-928-8217,A,10,34,Male,Austin.TX,No,No,Low,Packaging,30.2672,-97.7431
+66-929-7931,B,4,58,Male,Phoenix.AZ,Yes,No,Low,Features,33.4484,-112.074
+32-180-5272,B,10,54,Female,Austin.TX,Yes,Yes,Medium,Product Quality,30.2672,-97.7431
+24-274-7757,B,3,26,Male,Dallas.TX,Yes,Yes,High,Features,32.7767,-96.797
+75-267-3387,B,10,43,Female,New York.NY,Yes,Yes,Medium,Product Variety,40.7128,-74.006
+79-078-6648,B,1,35,Female,Phoenix.AZ,No,No,Low,Ease of Use,33.4484,-112.074
+52-773-8425,A,6,56,Male,Houston.TX,No,Yes,High,Delivery Speed,29.7604,-95.3698
+19-811-7372,B,4,31,Male,San Diego.CA,No,No,Medium,Brand Reputation,32.7157,-117.1611
+46-931-8744,B,1,39,Female,San Antonio.TX,Yes,No,Medium,Price,29.4241,-98.4936
+30-047-6921,B,5,59,Female,San Antonio.TX,No,No,Low,Brand Reputation,29.4241,-98.4936
+10-097-8699,B,2,36,Female,Austin.TX,No,Yes,High,Packaging,30.2672,-97.7431
+20-662-2814,B,10,27,Male,Chicago.IL,No,No,High,Ease of Use,41.8781,-87.6298
+61-599-0870,B,10,38,Male,San Diego.CA,Yes,Yes,High,Customer Service,32.7157,-117.1611
+17-446-6379,B,10,36,Male,Phoenix.AZ,Yes,No,Low,Product Quality,33.4484,-112.074
+21-592-6873,B,2,28,Female,Austin.TX,No,Yes,Medium,Ease of Use,30.2672,-97.7431
+61-483-2990,B,2,36,Male,Philadelphia.PA,No,No,High,Support Availability,39.9526,-75.1652
+09-267-4433,B,4,38,Male,Houston.TX,No,No,High,Features,29.7604,-95.3698
+38-526-9846,A,3,30,Male,Dallas.TX,Yes,No,Medium,Customer Service,32.7767,-96.797
+12-078-0739,B,2,56,Female,Dallas.TX,Yes,Yes,Low,Ease of Use,32.7767,-96.797
+53-329-0739,B,7,55,Female,Chicago.IL,No,Yes,Low,Product Quality,41.8781,-87.6298
+91-200-2546,B,2,59,Male,Los Angeles.CA,No,No,High,Packaging,34.0522,-118.2437
+87-949-0553,B,5,59,Female,New York.NY,No,Yes,Low,Delivery Speed,40.7128,-74.006
+67-577-1143,B,7,48,Male,Los Angeles.CA,Yes,Yes,High,Support Availability,34.0522,-118.2437
+57-084-9569,A,1,37,Male,Chicago.IL,Yes,Yes,Low,Features,41.8781,-87.6298
+63-660-4731,A,10,54,Male,Dallas.TX,Yes,No,Low,Product Quality,32.7767,-96.797
+40-459-1042,A,9,56,Female,Los Angeles.CA,No,Yes,Medium,Customer Service,34.0522,-118.2437
+38-924-6503,B,1,52,Female,Los Angeles.CA,Yes,No,Medium,Price,34.0522,-118.2437
+09-662-8324,B,6,57,Female,Chicago.IL,Yes,No,Medium,Product Variety,41.8781,-87.6298
+93-857-5934,B,6,41,Male,Houston.TX,Yes,Yes,Low,Product Variety,29.7604,-95.3698
+77-272-5054,A,7,40,Male,Phoenix.AZ,No,Yes,Medium,Delivery Speed,33.4484,-112.074
+17-125-4463,B,1,42,Male,Phoenix.AZ,Yes,No,Medium,Support Availability,33.4484,-112.074
+42-126-1339,B,2,47,Female,Philadelphia.PA,Yes,Yes,Low,Packaging,39.9526,-75.1652
+94-036-8707,A,5,60,Male,San Diego.CA,No,Yes,Low,Features,32.7157,-117.1611
+62-917-7895,A,1,49,Female,Los Angeles.CA,Yes,No,High,Price,34.0522,-118.2437
+26-113-3505,B,3,49,Male,San Diego.CA,No,No,Low,Delivery Speed,32.7157,-117.1611
+56-675-0174,A,7,43,Male,Phoenix.AZ,Yes,No,High,Packaging,33.4484,-112.074
+44-613-0413,B,7,39,Female,San Antonio.TX,No,Yes,Low,Features,29.4241,-98.4936
+67-307-4662,B,7,54,Female,Philadelphia.PA,No,No,Medium,Delivery Speed,39.9526,-75.1652
+41-456-9610,A,6,34,Female,Philadelphia.PA,No,No,Low,Product Quality,39.9526,-75.1652
+33-072-9155,B,4,38,Female,Dallas.TX,Yes,No,High,Support Availability,32.7767,-96.797
+19-447-9479,A,9,49,Male,Austin.TX,No,No,High,Support Availability,30.2672,-97.7431
+64-459-9660,A,1,51,Female,San Diego.CA,No,Yes,Medium,Ease of Use,32.7157,-117.1611
+93-851-3538,B,5,49,Female,San Diego.CA,Yes,No,Low,Product Quality,32.7157,-117.1611
+13-896-5506,B,3,37,Male,Austin.TX,No,Yes,Low,Delivery Speed,30.2672,-97.7431
+05-036-1176,B,9,29,Female,Phoenix.AZ,Yes,Yes,Low,Customer Service,33.4484,-112.074
+10-151-4453,B,10,41,Female,Los Angeles.CA,Yes,No,Low,Packaging,34.0522,-118.2437
+82-460-0901,A,5,38,Female,Philadelphia.PA,Yes,Yes,High,Packaging,39.9526,-75.1652
+25-500-0659,B,10,56,Female,Chicago.IL,Yes,No,High,Brand Reputation,41.8781,-87.6298
+24-298-5470,B,5,29,Female,Los Angeles.CA,No,No,High,Ease of Use,34.0522,-118.2437
+14-881-7559,B,1,29,Male,Los Angeles.CA,Yes,Yes,Medium,Customer Service,34.0522,-118.2437
+15-229-9746,A,8,33,Male,San Diego.CA,No,No,High,Price,32.7157,-117.1611
+39-244-6349,B,9,46,Male,Dallas.TX,Yes,Yes,Low,Product Quality,32.7767,-96.797
+07-532-8102,B,2,31,Male,Houston.TX,Yes,No,Medium,Product Variety,29.7604,-95.3698
+53-147-2230,A,9,35,Male,San Diego.CA,Yes,No,Medium,Price,32.7157,-117.1611
+11-990-1065,A,1,43,Male,Dallas.TX,Yes,No,Medium,Features,32.7767,-96.797
+66-592-8855,A,6,59,Male,Chicago.IL,No,Yes,High,Customer Service,41.8781,-87.6298
+80-077-7176,A,10,58,Male,Chicago.IL,Yes,No,Low,Support Availability,41.8781,-87.6298
+54-394-8816,A,6,49,Female,Chicago.IL,No,No,High,Customer Service,41.8781,-87.6298
+08-805-7171,A,3,41,Male,Phoenix.AZ,Yes,Yes,Low,Support Availability,33.4484,-112.074
+93-240-6886,A,1,37,Female,Phoenix.AZ,Yes,Yes,Low,Support Availability,33.4484,-112.074
+25-520-4506,B,3,59,Male,Phoenix.AZ,No,Yes,Low,Product Variety,33.4484,-112.074
+76-548-7824,B,6,47,Female,Phoenix.AZ,Yes,No,Medium,Support Availability,33.4484,-112.074
+35-843-5617,A,4,31,Female,New York.NY,Yes,No,High,Ease of Use,40.7128,-74.006
+75-590-7225,A,6,37,Female,Phoenix.AZ,No,No,Medium,Product Quality,33.4484,-112.074
+10-876-6221,B,10,27,Male,New York.NY,Yes,No,High,Packaging,40.7128,-74.006
+30-737-8314,B,5,51,Male,Houston.TX,No,Yes,Low,Customer Service,29.7604,-95.3698
+80-809-5873,B,10,31,Female,Dallas.TX,Yes,Yes,Low,Packaging,32.7767,-96.797
+83-776-3175,A,9,50,Female,Austin.TX,Yes,Yes,Low,Brand Reputation,30.2672,-97.7431
+07-251-2743,B,2,55,Female,Los Angeles.CA,Yes,Yes,High,Delivery Speed,34.0522,-118.2437
+96-484-7403,B,7,51,Female,Phoenix.AZ,Yes,Yes,Medium,Packaging,33.4484,-112.074
+45-426-3103,B,1,59,Female,Philadelphia.PA,Yes,Yes,Low,Brand Reputation,39.9526,-75.1652
+34-779-2221,A,4,25,Female,San Diego.CA,No,Yes,Medium,Brand Reputation,32.7157,-117.1611
+70-691-3714,B,4,45,Female,Houston.TX,No,No,Medium,Brand Reputation,29.7604,-95.3698
+26-809-2324,A,4,52,Female,Houston.TX,Yes,Yes,Medium,Product Variety,29.7604,-95.3698
+37-263-5471,B,5,57,Male,New York.NY,Yes,No,High,Support Availability,40.7128,-74.006
+44-005-6942,B,6,49,Male,San Diego.CA,Yes,Yes,Medium,Packaging,32.7157,-117.1611
+49-386-3299,B,2,44,Male,Chicago.IL,No,No,Low,Features,41.8781,-87.6298
+92-691-8025,A,2,35,Female,Houston.TX,Yes,No,Medium,Brand Reputation,29.7604,-95.3698
+06-981-4045,B,4,31,Female,Chicago.IL,Yes,No,Medium,Delivery Speed,41.8781,-87.6298
+27-973-8418,A,1,54,Female,Houston.TX,No,No,High,Ease of Use,29.7604,-95.3698
+47-164-5345,A,8,30,Male,Philadelphia.PA,Yes,Yes,Medium,Brand Reputation,39.9526,-75.1652
+42-154-1700,B,5,48,Female,Chicago.IL,No,Yes,High,Product Variety,41.8781,-87.6298
+46-748-7962,B,1,39,Female,San Antonio.TX,Yes,Yes,Medium,Brand Reputation,29.4241,-98.4936
+71-357-9985,B,3,41,Female,San Diego.CA,No,Yes,Low,Brand Reputation,32.7157,-117.1611
+14-063-1636,A,5,27,Female,Los Angeles.CA,Yes,Yes,High,Customer Service,34.0522,-118.2437
+17-187-9175,A,8,46,Male,Chicago.IL,Yes,No,High,Product Quality,41.8781,-87.6298
+90-949-0497,A,4,35,Male,New York.NY,No,No,High,Ease of Use,40.7128,-74.006
+10-109-4054,B,6,60,Male,San Antonio.TX,Yes,Yes,Medium,Delivery Speed,29.4241,-98.4936
+32-906-3051,B,10,51,Female,Houston.TX,Yes,Yes,Low,Product Variety,29.7604,-95.3698
+38-257-1020,B,6,59,Female,San Diego.CA,No,No,Medium,Customer Service,32.7157,-117.1611
+99-976-9679,B,8,36,Female,Los Angeles.CA,Yes,No,High,Delivery Speed,34.0522,-118.2437
+12-025-3338,A,9,25,Female,Philadelphia.PA,Yes,Yes,High,Packaging,39.9526,-75.1652
+08-069-0141,B,6,45,Female,Phoenix.AZ,No,No,Low,Brand Reputation,33.4484,-112.074
